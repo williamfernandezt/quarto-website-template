@@ -1,40 +1,55 @@
 ---
+title: "William Fernandez"
 about:
-  template: jolla
-  id: about-block
-  image: "img/my_image.jpg"
-  links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/MarvinSchmittML
-    - icon: github
-      text: Github
-      href: https://github.com/marvinschmitt
-    - icon: linkedin
-      text: LinkedIn
-      href: https://www.linkedin.com/in/marvin-schmitt-a85b321a2/
-    - icon: envelope
-      text: Email
-      href: "mailto:mail.marvinschmitt@gmail.com"  
+    template: trestles
+    links:
+        - icon: linkedin
+          text: LinkedIn
+          url: https://www.linkedin.com/in/william-fernandez-47a730114/
+        - icon: bsky
+          text: Bluesky
+          url: https://bsky.app/profile/williamfert.bsky.social
+        - icon: twitter
+          text: Twitter
+          url: https://x.com/William_FT
+        - icon: github
+          text: Github
+          url: https://github.com/williamfernandezt
+        - text: "Email"
+          url: mailto:w.fernandez@hertie-school.org
+        - text: "ORCID"
+          url: https://orcid.org/my-orcid?orcid=0009-0007-3963-5969
+        - text: "Google Scholar"
+          url: https://scholar.google.com/citations?user=J6V0eYcAAAAJ&hl=de 
+image: img/Picture1.jpg
+comments: false
 ---
 
-::: {#about-block}
-:::
+## Welcome!
 
-# Welcome to my website!
+I am a PhD candidate in Public Policy at the Research Training Group ([DYNAMICS](https://www.sowi.hu-berlin.de/en/dynamics)), jointly organized by the [Hertie School](https://www.hertie-school.org/en/) and [Humboldt University](https://www.hu-berlin.de/en).
 
-I am Gandalf the White, a renowned wizard and scholar of Middle-earth. Over the centuries, I have dedicated my life to studying the history, languages, and cultures of the peoples of Middle-earth. On this website, I offer a glimpse into my vast body of knowledge, ongoing research, and publications.
+My research lies at the intersection of economics and demography, and in my dissertation I analyze the impact of late life-course events such as retirement and widowhood on outcomes inlcuding individual wellbeing, labor force participation, and poverty risk. I specialize in quantitative analysis using both descriptive methods and causal inference, focusing on European and Latin American countries.  
 
-My research interests span the entirety of Middle-earth, from the distant past to the present day. I am particularly passionate about the languages and mythologies of the Elves, Dwarves, and Men, and I have made significant contributions to the understanding of these subjects. My studies of the natural world have also been extensive, and I am an expert in the flora and fauna of Middle-earth. Additionally, I have been involved in many important historical events and offer valuable first-hand accounts and insights on the past.
+Before starting my PhD, I received a Bachelor in Economics from [Universidad del Pacífico](https://www.up.edu.pe/) and a Master of Public Policy from the [Hertie School](https://www.hertie-school.org/en/).
 
-Not only am I a scholar, but I am also a mentor and teacher. Over the centuries, I have had the honor of working with many young wizards, passing on my knowledge and experience to the next generation. I have a particular interest in the education of hobbits, whom I see as having great potential despite their small size and simple lifestyle. My teaching style is engaging and accessible, and I encourage my students to think critically and creatively.
+You can find a list of my research projects [here](papers) and my CV [here](cv). Please feel free to [reach out](mailto:w.fernandez@hertie-school.org), I am happy to connect or explore potential collaborations! 
 
-On this website, you will find a selection of my published works, including scholarly articles, monographs, and translations. You will also find news and updates on my current research projects, as well as information on upcoming events and conferences where I will be speaking. I invite you to explore my website and learn more about my life's work as one of Middle-earth's greatest scholars and thinkers.
-Please feel free to [contact me](mailto:mail.marvinschmitt@gmail.com) if you have any questions or would like to discuss potential projects.
 
-```{=html}
-<div  style="margin: 30px; text-align: center;">
-<a class="btn btn-primary" href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/" role="button" target="_blank" style="padding: 15px 30px;">View the tutorial for this template (+ download link)</a>
-</div>
-```
+## Interests
+
+* Life-course 
+* Demography
+* Individual well-being
+* Labor
+* Development
+* Gender
+* Causal inference
+
+
+## Personal life
+
+I currently live in Berlin, Germany, but I am originally from Lima, Peru. In my free time, I enjoy playing videogames (mostly RPGs), singing in my choir, going to the movies, opera, theater, reading, and creative writing.  You can find a list of the videogames I have played, the movies I have watched, and some reviews [here](hobbies).  
+
+
 

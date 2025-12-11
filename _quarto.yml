@@ -1,52 +1,46 @@
-# This file controls the settings for your Quarto template from www.marvinschmitt.com
-
 # website settings
 website:
-  title: "Gandalf"                                # Your name
-  description: "Gandalf is a renowned wizard and scholar of Middle-earth"   # A brief slogan (optional)
-  image: img/my_image.jpg
-  
-  favicon: img/favicon.png
-  
+  title: "William Fernandez"                                                # Your name
+  description: "Doctoral Researcher at DYNAMICS RTG"   # A brief slogan (optional)
+  image: img/my_image.jpeg
+    
   # start of the navigation bar at the top of the website
   navbar:
     pinned: true
-    logo: /img/logo.png
-    
-    # your sub-pages
+
+    # Sub-pages
     left:
+      - text: "Publications"
+        href: publications/index.qmd
       - text: "Projects"
         href: projects/index.qmd
-      - text: "Photography"
-        href: photography/index.qmd
       - text: "CV"
         href: cv/index.qmd
+      - text: "Blog"
+        href: blog/index.qmd
     
-    # your social media handles
+    # Social media handles
     right:
-      - icon: folder-symlink
-        href: https://www.marvinschmitt.com/blog/website-tutorial-quarto/
       - icon: twitter
-        href: https://twitter.com/MarvinSchmittML
+        href: https://x.com/William_FT
+      - icon: github
+        href: https://github.com/williamfernandezt
       - icon: linkedin
-        href: https://www.linkedin.com/in/marvin-schmitt-a85b321a2/
+        href: https://www.linkedin.com/in/william-fernandez-47a730114/
       - icon: envelope
         aria-label: email
-        href: "mailto:mail.marvinschmitt@gmail.com"  
-  
+        href: "mailto:w.fernandezt@outlook.com"  
   
 
-# Don't touch unless you know what you are doing :) ------------
+# General configuration
   search: 
     location: navbar
     type: textbox
   page-footer: 
     left: |
-      <span class="faux-block">&#169; 2023 Marvin Schmitt CC BY-SA 4.0</span>
-    center: |
-      <span class="faux-block"><a href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/">View the tutorial for this template!</a></span>
+      <span class="faux-block">&#169; 2024 William Fernandez</span>
     right: |
-      <span class="faux-block"><a href="https://github.com/marvinschmitt/quarto-website-template/">View source on GitHub</a></span>
+      <span class="faux-block"><a href="https://github.com/williamfernandezt/quarto-website-template/">View source on GitHub</a></span>
 
 project:
   type: website
@@ -65,8 +59,7 @@ format:
   html:
     fontsize: 1.1em
     theme: 
-      - pulse
-      - html/styles.scss
+      - lux
     toc: false
     code-link: true
     anchor-sections: true
