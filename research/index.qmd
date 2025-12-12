@@ -1,0 +1,43 @@
+---
+---
+
+## Working Papers
+
+<span class="paper-title">Does retirement make people happy? The Impact of Retirement on Couples’ Life Satisfaction in Germany.</span> [Download](https://ideas.repec.org/p/osf/socarx/mk4tx_v1.html){target="_blank"}
+
+William Fernandez 
+
+::: {.callout-note collapse="true" icon="false" title="Abstract" .abstract-box}
+In the developed world, efforts are underway to extend working lives. However, discussions often overlook the potential implications of retirement for individual well-being. While the relationship between retirement and life satisfaction has been extensively studied, the effects of spousal retirement remain underexplored, particularly from a gender and timing perspective. This paper examines the impact of retirement on self-reported life satisfaction among couples in Germany. Using data from the German Socio-Economic Panel (SOEP), I employ standard fixed-effects (FE) models and fixed-effects individual slopes (FEIS) to estimate the causal effects of personal and partner retirement on life satisfaction. The findings show that retirement substantially increases life satisfaction, a result that remains robust across methodologies and specifications. For partner retirement, accounting for heterogeneous trends by health status reveals an overall positive effect, driven by men. Moreover, women appear to be worse off when their husbands retire while they remain in the workforce, whereas the opposite holds for men. To m yknowledge, this is the first study to examine the impact of both personal and spousal retirement on life satisfaction using the SOEP. The results provide robust evidence that partner retirement affects life satisfaction, highlighting the importance of understanding retirement as a life course event with intra-household spillover effects that extend beyond the retiring individual. 
+:::
+
+----
+
+<span class="paper-title">Linked Lives, Lasting Effecs. Financial Security after Widowhood in the Netherlands and Germany</span>
+
+[Clara Overweg](https://www.uni-bamberg.de/sfa/team/clara-overweg/){target="_blank"} and William Fernandez
+
+::: {.callout-note collapse="true" icon="false" title="Abstract" .abstract-box}
+Widowhood is a key life course transition that disproportionately affects women, exposing them to heightened risks of income loss and economic insecurity in later life. As debates about the role and sustainability of survivor benefits intensify across Europe, understanding how policy contexts influence the economic consequences of widowhood becomes increasingly important. This study will compare the economic consequences of widowhood in two contrasting welfare regimes: the Netherlands and Germany. Drawing on administrative microdata from Statistics Netherlands (CBS) and longitudinal panel data from the German Socio-Economic Panel (SOEP), we apply an event study approach to estimate the causal effect of widowhood on total and equivalized household income. We will further analyze heterogeneity across the pre-widowhood income distribution to assess distributional inequalities in the transition. In Germany, public pensions are strongly earnings-related and survivor benefits are generous. In contrast, the Dutch public pension system provides a more redistributive, flat-rate basic pension, but survivor benefits are highly restricted. We expect widowhood to reduce total household income in both countries. However, income losses are likely to be larger in the Netherlands due to the limited public survivor benefit provision. At the same time, Germany’s earnings-related pension system produces more unequal effects across the income distribution. This study contributes to research on financial security during widowhood by (1) providing insights into how pension policy contexts shape economic outcomes, (2) examining how income losses vary across the income distribution, and (3) applying a state-of-the-art causal identification strategy.
+:::
+
+----
+
+## Policy Papers
+
+<span class="paper-title">¿Quién pagará? La dinámica de la reforma del sistema de pensiones y su impacto en la equidad intergeneracional (2025)</span> 
+
+[Noelia Bernal](https://nbernall.github.io/Website/){target="_blank"} and William Fernandez. [Download](https://agenda2026.up.edu.pe/propuesta-nacional/quien-pagara-la-dinamica-de-la-reforma-del-sistema-de-pensiones-y-su-impacto-en-la-equidad-intergeneracional/){target="_blank"}
+
+----
+
+<span class="paper-title">Challenges of the Peruvian Private Pension System: the risks that workers who save in individual retirement accounts face (2020)</span>
+
+[Noelia Bernal](https://nbernall.github.io/Website/){target="_blank"} and William Fernandez. [Download](https://ciup.up.edu.pe/ppp/retos-del-sistema-privado-de-pensiones-riesgos-que-enfrentan-trabajadores-ahorran-cuentas-individuales/){target="_blank"}
+
+
+
+
+
+
+

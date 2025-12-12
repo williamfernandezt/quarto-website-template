@@ -1,5 +1,0 @@
----
-title: "Blog"
----
-
-New entries coming soon!

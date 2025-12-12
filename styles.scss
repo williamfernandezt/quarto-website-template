@@ -54,6 +54,16 @@ $code-color: $gray-900 !default;
 // TOC
 $toc-color: $orange;
 $toc-font-size: 1em;
+#toc-title {
+  display: none !important;
+}
+
+// Abstract box
+.abstract-box > .callout-header {
+  background-color: black !important;
+  color: white !important;
+  border-color: black !important;
+}
 
 // Code copy
 $btn-code-copy-color-active: $orange !default;
@@ -118,3 +128,4 @@ $btn-code-copy-color-active: $orange !default;
         }
     }
 }
+

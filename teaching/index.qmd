@@ -1,0 +1,17 @@
+---
+---
+
+## Hertie School
+
+* Applied Logistic Regression (2025). [Syllabus](E1201_LogisticRegression_Kreyenfeld.pdf){target="_blank"}. 
+* Applied Longitudinal Data Analysis (2025). [Syllabus](E1322_LongitudinalAnalysis_Kreyenfeld_Version02.pdf){target="_blank"}. 
+* Public Policies and Demographic Change (2025). [Syllabus](E1182_Syllabus.pdf){target="_blank"}.
+* Statistics II: Statistical Modeling and Causal Inference (2024-2025). [Syllabus](Syllabus.pdf){target="_blank"}.
+* Economics I: Introduction to Microeconomics (2022-2024). [Syllabus](Syllabus_EconI_Fall2024.pdf){target="_blank"}.
+* Economics II: Inflation and Monetary Policy Challenges (2023). [Syllabus](C8-109_EconIIMonetaryPolicy.pdf){target="_blank"}.
+
+## Universidad del Pacífico
+
+* Intermediate Microeconomics (2018-2020). [Syllabus](2020 I Silabo Microeconomía I.pdf){target="_blank"}.
+* Introduction to Microeconomics (2016-2018). [Syllabus](Sílabo_propuesta.pdf){target="_blank"}.
+

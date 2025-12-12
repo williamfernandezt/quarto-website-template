@@ -33,7 +33,7 @@ My research lies at the intersection of economics and demography, and in my diss
 
 Before starting my PhD, I received a Bachelor in Economics from [Universidad del Pacífico](https://www.up.edu.pe/) and a Master of Public Policy from the [Hertie School](https://www.hertie-school.org/en/).
 
-You can find a list of my research projects [here](papers) and my CV [here](cv). Please feel free to [reach out](mailto:w.fernandez@hertie-school.org), I am happy to connect or explore potential collaborations! 
+You can find a list of my research projects [here](research/index.qmd) and my CV [here](cv/index.qmd). Please feel free to [reach out](mailto:w.fernandez@hertie-school.org), I am happy to connect or explore potential collaborations! 
 
 
 ## Interests
@@ -42,14 +42,13 @@ You can find a list of my research projects [here](papers) and my CV [here](cv).
 * Demography
 * Individual well-being
 * Labor
-* Development
 * Gender
 * Causal inference
 
 
 ## Personal life
 
-I currently live in Berlin, Germany, but I am originally from Lima, Peru. In my free time, I enjoy playing videogames (mostly RPGs), singing in my choir, going to the movies, opera, theater, reading, and creative writing.  You can find a list of the videogames I have played, the movies I have watched, and some reviews [here](hobbies).  
+I currently live in Berlin, Germany, but I am originally from Lima, Peru. In my free time, I enjoy playing videogames (mostly RPGs), singing in my choir, going to the movies, opera, theater, reading, and creative writing.  You can find a list of the videogames I have played, the movies I have watched, and some reviews [here](hobbies/index.qmd).  
 
 
 

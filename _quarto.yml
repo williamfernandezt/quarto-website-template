@@ -1,8 +1,8 @@
 # website settings
 website:
-  title: "William Fernandez"                                                # Your name
-  description: "Doctoral Researcher at DYNAMICS RTG"   # A brief slogan (optional)
-  image: img/my_image.jpeg
+  title: "About"                                                # Your name
+  description: "Doctoral Researcher"   # A brief slogan (optional)
+  image: img/Picture1.jpg
     
   # start of the navigation bar at the top of the website
   navbar:
@@ -10,26 +10,20 @@ website:
 
     # Sub-pages
     left:
-      - text: "Publications"
-        href: publications/index.qmd
-      - text: "Projects"
-        href: projects/index.qmd
+      - text: "Research"
+        href: research/index.qmd
+      - text: "Teaching"
+        href: teaching/index.qmd
       - text: "CV"
         href: cv/index.qmd
-      - text: "Blog"
-        href: blog/index.qmd
+      - text: "Hobbies"
+        href: hobbies/index.qmd
     
     # Social media handles
     right:
-      - icon: twitter
-        href: https://x.com/William_FT
-      - icon: github
-        href: https://github.com/williamfernandezt
-      - icon: linkedin
-        href: https://www.linkedin.com/in/william-fernandez-47a730114/
       - icon: envelope
         aria-label: email
-        href: "mailto:w.fernandezt@outlook.com"  
+        href: "mailto:w.fernandez@hertie-school.org"  
   
 
 # General configuration
@@ -38,10 +32,8 @@ website:
     type: textbox
   page-footer: 
     left: |
-      <span class="faux-block">&#169; 2024 William Fernandez</span>
-    right: |
-      <span class="faux-block"><a href="https://github.com/williamfernandezt/quarto-website-template/">View source on GitHub</a></span>
-
+      <span class="faux-block">&#169; 2025 William Fernandez</span>
+    
 project:
   type: website
   output-dir: docs
@@ -60,7 +52,8 @@ format:
     fontsize: 1.1em
     theme: 
       - lux
-    toc: false
+    css: styles.css
+    toc: true
     code-link: true
     anchor-sections: true
     fig-cap-location: margin
