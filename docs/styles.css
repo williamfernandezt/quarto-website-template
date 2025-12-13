@@ -1,0 +1,46 @@
+/* Remove TOC title */
+#toc-title {
+  display: none !important;
+}
+
+/* Abstract box */
+.abstract-box > .callout-header {
+  background-color: #000000 !important;  /* header */
+  color: #ffffff !important;             /* text */
+  border: 1px solid #000000 !important;  /* all sides */
+  border-left: 10px solid #000000 !important; /* left border */
+}
+
+.abstract-box > .callout-content {
+  background-color: #ffffff !important;  /* content background */
+  color: #000000 !important;             /* content text */
+  border-left: 10px solid #000000 !important; /* match left border */
+}
+
+/* Remove default note/blue left border */
+.abstract-box.callout-note {
+  border-left: solid #000000 !important; /* override default */
+}
+
+.paper-title {
+  font-weight: 900 !important;       /* maximum bold */
+}
+
+/* Review box */
+.review-box > .callout-header {
+  background-color: #ffffff !important;  /* header */
+  color: #000000 !important;             /* text */
+  border: 1px solid #000000 !important;  /* all sides */
+  border-left: 1px solid #000000 !important; /* left border */
+}
+
+.review-box > .callout-content {
+  background-color: #ffffff !important;  /* content background */
+  color: #000000 !important;             /* content text */
+  border-left: 1px solid #000000 !important; /* match left border */
+}
+
+/* Remove default note/blue left border */
+.review-box.callout-note {
+  border-left: solid #000000 !important; /* override default */
+}
