@@ -1,6 +1,10 @@
 ---
 ---
 
+I have taught undergraduate- and postgraduate-level courses in **statistics, quantitative methods, public policy, and economics** at the [Hertie School](https://www.hertie-school.org/en/) and [Universidad del Pacífico](https://www.up.edu.pe/). 
+
+----
+
 ## Hertie School
 
 * Applied Logistic Regression (2025). [Syllabus](E1201_LogisticRegression_Kreyenfeld.pdf){target="_blank"}. 
@@ -9,6 +13,8 @@
 * Statistics II: Statistical Modeling and Causal Inference (2024-2025). [Syllabus](Syllabus.pdf){target="_blank"}.
 * Economics I: Introduction to Microeconomics (2022-2024). [Syllabus](Syllabus_EconI_Fall2024.pdf){target="_blank"}.
 * Economics II: Inflation and Monetary Policy Challenges (2023). [Syllabus](C8-109_EconIIMonetaryPolicy.pdf){target="_blank"}.
+
+----
 
 ## Universidad del Pacífico
 

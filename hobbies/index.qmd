@@ -21,6 +21,12 @@ The few plot points that the story tries to develop lack depth and are not trasc
 I give two stars because of the leading performances, which are definitely the best part of the film. Even though both characters are over the top, the performances don’t feel forced or unbelievable, instead, the actors bring these concepts to life organically. Regarding Lawrence, this is yet another confirmation of the quality of acting she can provide. However, I’m growing a bit tired of Hollywood giving her roles of very strong-minded, neurotic, aggressive and loud women (see for example American Hustle or Silver Lining’s Playbook). I think in the future it’d be interesting for her to explore roles that require more submission or stoicism from her side.
 :::
 
+
+::: {.callout-note collapse="true" icon="false" title="The Dinner (2025)" .review-box}
+  **Score: 4/5**. As someone not very familiar with Spain’s history during the years of the Civil War, this film successfully encapsulates the period and transports the viewer back to that era. Polarization and civil unrest were at their peak, but instead of adopting a tragic or melancholic tone, the film leans into comedy to address heavy topics such as sexism, homophobia, political persecution, and the dangers of fanaticism and authoritarian regimes. This tonal choice works extremely well onscreen, making the critique sharper rather than lighter. The cast delivers phenomenal performances, and my only major complaint is the open and somewhat unconvincing ending. Aside from that, The Dinner was a joy to watch, and for anyone familiar with or who lived through the Franco years, it is a must-watch.
+::: 
+
+
 ::: {.callout-note collapse="true" icon="false" title="The Life of Chuck (2024)" .review-box}
   **Score: 4/5**. A touching film about the unique value of every single human life. The human experience is so gorgeous and complex that each individual is like an entire universe. I would’ve liked to see more of adult Chuck, but the younger version’s journey was insanely tender and wholesome to watch.
 ::: 
@@ -68,6 +74,65 @@ The best moment of the film is probably the closing scene. I was wondering how A
 
 ::: {.callout-note collapse="true" icon="false" title="Flow (2024)" .review-box}
 **Score: 4/5**. This movie contains such a deep reflection on life that I think it’s hard to grasp in just one watch.
+::: 
+
+::: {.callout-note collapse="true" icon="false" title="Babygirl (2024)" .review-box}
+**Score: 3.5/5**.
+:::
+
+
+::: {.callout-note collapse="true" icon="false" title="Emilia Perez (2024)" .review-box}
+**Score: 3.5/5**. Yes, this movie is horrible. However, it is, to this day, one of the movies I quote the most in my daily life. The level of comedy once you stop taking the plot too seriously is just too good to ignore. 
+
+:::
+
+::: {.callout-note collapse="true" icon="false" title="Conclave (2024)" .review-box}
+**Score: 4.5/5**.
+::: 
+
+
+::: {.callout-note collapse="true" icon="false" title="The Brutalist (2024)" .review-box}
+**Score: 2.5/5**.
+
+::: 
+
+
+::: {.callout-note collapse="true" icon="false" title="Oslo Stories: Dreams (2024)" .review-box}
+**Score: 4/5**. Falling in love or having an intense crush for the first time is difficult to explain or portray, particularly because the person going through it often lacks the experience or emotional tools to fully understand what is happening. Dreams follows a young girl who falls helplessly in love with her teacher, and the result is almost magical. Oslo is seen through Johanne’s eyes, where everything appears perfect until she realizes that her teacher will never want her and that the entire relationship existed only in her mind. Nothing really happened between them, yet she feels as if they lived a thousand lives together, and the film makes this realization painfully clear once reality sets in.
+
+However, the film is not only about Johanne’s love story. Her mother and grandmother complete a trio of women, each with dreams of their own that they struggle to fulfill, and they channel these aspirations in different ways through Johanne’s book. At times, the film feels mundane and extremely simple, but it reveals many layers once you start thinking about it. It also functions as a cultural portrayal of Norwegian perspectives on family relationships, which feel very distant to me as a Latin American. I don't usually like intimate and slow-paced films, but Dreams is a notable exception.
+
+::: 
+
+
+::: {.callout-note collapse="true" icon="false" title="Oslo Stories: Sex (2024)" .review-box}
+**Score: 3/5**.
+
+
+::: 
+
+
+::: {.callout-note collapse="true" icon="false" title="The Florida Project (2017)" .review-box}
+**Score: 4/5**.
+
+::: 
+
+
+::: {.callout-note collapse="true" icon="false" title="The Long Walk (2025)" .review-box}
+**Score: 3.5/5**.
+
+::: 
+
+
+::: {.callout-note collapse="true" icon="false" title="Downton Abbey: The Grand finale (2025)" .review-box}
+**Score: 4/5**.
+
+::: 
+
+
+::: {.callout-note collapse="true" icon="false" title="Wicked: For Good (2025)" .review-box}
+**Score: 2.5/5**.
+
 ::: 
 
 ### 2024
@@ -130,7 +195,37 @@ Finally, I just wanna say that Demi Moore is really brave to star in a film that
 **Score: 3.5/5**. They focused the movie on the character of Regina, neglecting a lot the other 2 plastics and, of course, Cady Heron (who was also one of the weakest singers in the film). Though it’s understandable that they decided to cut many songs from the stage version, people who know the musical will tell that basically only the Regina George solos are intact. This isn’t bad per se, since Renee Rapp is amazing in the role and her vocals are otherwordly, but this story is much more than only Regina. The arrangements for a couple songs (Stupid with Love and Apex Predator) sounded off. In general, it’s a decent adaptation with flaws but overall entertaining and with some twists that make it a worthy watch for those who liked the original film.
 ::: 
 
+::: {.callout-note collapse="true" icon="false" title="Anatomy of a Fall (2024)" .review-box}
+**Score: 4/5**.
 
+::: 
+
+
+::: {.callout-note collapse="true" icon="false" title="Inside Out 2 (2024)" .review-box}
+**Score: 4/5**.
+::: 
+
+::: {.callout-note collapse="true" icon="false" title="I Saw the TV Glow (2024)" .review-box}
+**Score: 0.5/5**.
+
+::: 
+
+
+::: {.callout-note collapse="true" icon="false" title="Blink Twice (2024)" .review-box}
+**Score: 3.5/5**.
+
+::: 
+
+
+::: {.callout-note collapse="true" icon="false" title="Beetlejuice Beetlejuice (2024)" .review-box}
+**Score: 3/5**.
+
+::: 
+
+::: {.callout-note collapse="true" icon="false" title="The Room Next Door (2024)" .review-box}
+**Score: 4.5/5**.
+
+::: 
 
 
 

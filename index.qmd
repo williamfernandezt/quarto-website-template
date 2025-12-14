@@ -27,9 +27,9 @@ comments: false
 
 ## Welcome!
 
-I am a PhD candidate in Public Policy at the Research Training Group ([DYNAMICS](https://www.sowi.hu-berlin.de/en/dynamics)), jointly organized by the [Hertie School](https://www.hertie-school.org/en/) and [Humboldt University](https://www.hu-berlin.de/en).
+I am a PhD candidate in Public Policy at the Research Training Group [DYNAMICS](https://www.sowi.hu-berlin.de/en/dynamics), jointly organized by the [Hertie School](https://www.hertie-school.org/en/) and [Humboldt University](https://www.hu-berlin.de/en).
 
-My research lies at the intersection of economics and demography, and in my dissertation I analyze the impact of late life-course events such as retirement and widowhood on outcomes inlcuding individual wellbeing, labor force participation, and poverty risk. I specialize in quantitative analysis using both descriptive methods and causal inference, focusing on European and Latin American countries.  
+My research lies at the intersection of economics and demography, and in my dissertation I analyze the impact of late life-course events such as retirement and widowhood on outcomes including individual well-being, labor force participation, and poverty risk. I specialize in quantitative analysis using both descriptive methods and causal inference, focusing on European and Latin American countries.  
 
 Before starting my PhD, I received a Bachelor in Economics from [Universidad del Pacífico](https://www.up.edu.pe/) and a Master of Public Policy from the [Hertie School](https://www.hertie-school.org/en/).
 
